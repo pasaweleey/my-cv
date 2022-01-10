@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div{
+    margin: 0%;
+    background-image: url(pexels-fernando-arcos-190819.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: 1px;
+}
+
+
+
+.a1{
+
+    margin-right: 200px;
+}
+
+.a2{
+    margin-right: 200px;
+}
+h1{
+    color: gold;
+    text-align: center;
+}
+h2{
+    color: gold;
+    text-align: center;
+}
+.div{
+    display: flex;
+}
+.div1{
+    text-align: center;
+    margin-left: 44;
+}
+.div2{
+    text-align: right;
+}
+
+.img2{
+    text-align:center;
+    margin-left: 40px;
+}
+.img1{
+    text-align:right;
+    margin-left: 40px;
+}
+.img3{
+    margin-left: 40px;
+}

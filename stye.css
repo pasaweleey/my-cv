@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h10 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+.p{
+    text-align: left;
+    
+}
+
+fieldset{
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    float: right;
+    margin-bottom: 70px;
+
+}
+.div1{
+
+    margin: 0px 300px 0px 10px;
+    width: 2px;
+    height: 2px;
+}
+.div2{
+
+    margin: 0px 450px 0px 300px ;
+    width: 2px;
+    height: 2px;
+}.div3{
+
+    margin: 0px 550px 0px 500px;
+    width: 2px;
+    height: 2px;
+}.div4{
+
+    margin: 0px 650px 0px 700px;
+    width: 2px;
+    height: 2px;
+}
+a{
+ color: darkorchid;
+}
+
+/**/
